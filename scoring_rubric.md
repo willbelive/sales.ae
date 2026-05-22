@@ -1,6 +1,6 @@
 # Scoring Rubric: Sales AE 006
 
-This challenge-specific rubric supplements the [general scoring methodology](../../SCORING.md).
+This challenge-specific rubric supplements the [general scoring methodology](/score.md)
 
 ## Challenge-Specific Evaluation Points
 
