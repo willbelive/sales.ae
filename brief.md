@@ -87,17 +87,10 @@ Your strategy should include:
 
 ### Evaluation Criteria
 
-See [SCORING.md](../../SCORING.md) for how submissions are evaluated.
+See [SCORING.md for how submissions are evaluated.
 
 Your answer will be compared against Claude's answer to this same brief in a blind review.
 
 ### Format
 
 Submit as PDF or Markdown. **Maximum 4 pages.** Be specific—generic sales frameworks won't beat Claude. Estimated time: 1-2 hours.
-
----
-
-**Questions about the brief?** Open an issue in this repo.
-
-**Ready to submit?** Apply through our careers page: **[singlegrain.com/careers](https://www.singlegrain.com/careers/)**
-Upload your challenge answer (PDF or Markdown) along with your application.
